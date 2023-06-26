@@ -1,4 +1,4 @@
-pip install opencv-python
+#pip install opencv-python
 
 import cv2 as cv
 import streamlit as st
